@@ -70,7 +70,7 @@ export default class Search extends React.Component {
 
       //push all elements that have matching keywords into the array which will be used to display content
       for (var i = 0; i < this.props.itemList.length; i++) {
-        if (this.props.itemList[i].keywords.includes(keywords)) {
+        if (this.props.itemList[i].keywords.includes(keywords.toLowerCase())) {
           this.state.display.push([
             this.props.itemList[i].title,
             this.props.itemList[i].body
