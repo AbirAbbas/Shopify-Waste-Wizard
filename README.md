@@ -15,5 +15,7 @@ site will be hosted on localhost port 3000
 
 # Structure
 src/index.js: is simply used to combine all components together
+
 src/header.js: only renders the site header
+
 src/search.js: this file technically contains two components (Search component and Favorite component), but since they heavily rely on each other I decided to combine both components into one file to make communication between them significantly easier.
