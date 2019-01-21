@@ -8,7 +8,9 @@ This is my second attempt ever using React as a web development framework, and I
 
 # Compilation
 npm install
+
 npm start
+
 site will be hosted on localhost port 3000
 
 # Structure
