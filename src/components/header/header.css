@@ -1,0 +1,18 @@
+.top-header {
+  background-image: linear-gradient(
+    to right,
+    rgb(30, 89, 143),
+    rgb(45, 119, 119)
+  );
+  height: 15vh;
+  overflow: hideden;
+}
+
+.title-header {
+  font-size: 3rem;
+  text-align: center;
+  overflow: hidden;
+  padding-top: 4vh;
+  font-weight: 700;
+  color: white;
+}
