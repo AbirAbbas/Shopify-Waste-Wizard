@@ -2,6 +2,8 @@
 Shopify Waste Wizard Challenge for the Web Engineering Internship position
 
 # Note
+After reading the challenge specifications several times, I was a bit confused about whether or not to match keys based on each invidual string, or to also take in matches that have a matching substring! I went along with the matching substring option, but to fix this would be a very minor change in the code!
+
 This is my second attempt ever using React as a web development framework, and I realize there's a lot of thinks I could've have improved on given more knowledge and experience using React! I will continue expanding my knowledge in React as I move forward in my career.
 
 # Compilation
